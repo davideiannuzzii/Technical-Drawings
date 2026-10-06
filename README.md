@@ -1,4 +1,4 @@
 # Technical-Drawings
 Technical drawings and 3D models developed in SolidWorks during my bachelor's degree: part design, assemblies and engineering drawings.
 
-![.](Technicaldrawingsimages/Tavola3.png)
+![.](Technical_drawings_images/Tavola3.png)
